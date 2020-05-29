@@ -4,7 +4,7 @@
 <!-- Badges -->
 <p align="center">
     <a href="https://shields.io/" target="_blank">
-        <img src="https://img.shields.io/github/languages/top/bwhybrow23/Template?color=brightgreenn" alt="Main Lang"/>
+        <img src="https://img.shields.io/github/languages/top/bwhybrow23/QUBot?color=brightgreenn" alt="Main Lang"/>
     </a>
      <a href="https://github.com/users/bwhybrow23" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-bwhybrow23-blue.svg?logo=github&logoColor=FFF" alt="GitHub"/>
@@ -17,7 +17,8 @@
 <!-- Content -->
 ## Hello
 
-This repository stores the old Discord bot for Quest Universe. Quest Universe was a Minecraft network created in late 2018 that closed due to inactivity from players. This is an archived repository but the code can be used to create other bots. 
+This repository stores the old Discord bot for Quest Universe. Quest Universe was a Minecraft network created in late 2018 that closed due to inactivity from players. 
+This is a repository that will not be edited except for ReadMe changes as the bot is archived. The repository isn't archived, however, to allow for the sponsorship button. 
 
 ### Donating
 
