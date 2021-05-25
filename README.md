@@ -18,7 +18,6 @@
 ## Hello
 
 This repository stores the old Discord bot for Quest Universe. Quest Universe was a Minecraft network created in late 2018 that closed due to inactivity from players. 
-This is a repository that will not be edited except for ReadMe changes as the bot is archived. The repository isn't archived, however, to allow for the sponsorship button. 
 
 ### Donating
 
